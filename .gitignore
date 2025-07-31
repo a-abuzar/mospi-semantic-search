@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Large data and AI engine files
+/data/
+/app/index.faiss
+/app/lookup_data.csv
+
+# IDE and OS files
+.vscode/
+.idea/
+*.DS_Store
