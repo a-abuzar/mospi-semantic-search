@@ -3,7 +3,6 @@
 __pycache__/
 
 # Large data and AI engine files
-/data/
 /app/index.faiss
 /app/lookup_data.csv
 
