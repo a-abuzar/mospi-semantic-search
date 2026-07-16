@@ -19,11 +19,6 @@
 
 **MOSPI Semantic Search** revolutionizes how users interact with the **National Classification of Occupations (NCO)** dataset. By leveraging a state-of-the-art **multilingual-e5-large** embedding model and **FAISS** vector database, this engine allows users to query occupations using natural language—and even voice—delivering incredibly accurate, sub-millisecond results.
 
-<div align="center">
-  <!-- TODO: Replace this URL with an actual screenshot of the app once it's running -->
-  <img src="https://via.placeholder.com/800x400/f8fafc/3b82f6?text=Screenshot+of+MOSPI+Search+App" alt="Web UI Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
-</div>
-
 ---
 
 ## 🚀 Key Features
